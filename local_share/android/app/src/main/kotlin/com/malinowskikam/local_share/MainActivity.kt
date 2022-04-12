@@ -1,4 +1,4 @@
-package com.example.local_share
+package com.malinowskikam.local_share
 
 import io.flutter.embedding.android.FlutterActivity
 

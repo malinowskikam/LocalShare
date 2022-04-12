@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.local_share">
+    package="com.malinowskikam.local_share">
    <application
         android:label="local_share"
         android:name="${applicationName}"

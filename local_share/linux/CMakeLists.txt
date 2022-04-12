@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 project(runner LANGUAGES CXX)
 
 set(BINARY_NAME "local_share")
-set(APPLICATION_ID "com.example.local_share")
+set(APPLICATION_ID "com.malinowskikam.local_share")
 
 cmake_policy(SET CMP0063 NEW)
 
